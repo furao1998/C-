@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务02_1 打印机器人", "任务02_1 打印机器人\任务02_1 打印机器人.vcxproj", "{6B8C626A-9239-47A6-9BB0-E938CBF2DECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8C626A-9239-47A6-9BB0-E938CBF2DECA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B8C626A-9239-47A6-9BB0-E938CBF2DECA}.Debug|Win32.Build.0 = Debug|Win32
+		{6B8C626A-9239-47A6-9BB0-E938CBF2DECA}.Release|Win32.ActiveCfg = Release|Win32
+		{6B8C626A-9239-47A6-9BB0-E938CBF2DECA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
